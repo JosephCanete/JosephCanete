@@ -1,8 +1,8 @@
 Hi 👋, I’m Raymond Cañete
 I am interested into Building Web Applications
-I'm currently learning MERN Stack, [MongoDb, Express, React, NodeJs] + GraphQL which combines being FULL STACK DEVELOPER.
+I'm currently learning MERN Stack, [MongoDb, Express, React, NodeJs] which combines being a FULL STACK DEVELOPER.
 
-In parallel I am also learning Cloud Computing in AWS services.
+In parallel, I am also learning Cloud Computing in AWS services.
 
 I want you to know that GOD LOVES YOU. ❤️💞
 
